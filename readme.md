@@ -3,6 +3,6 @@
 <h3><strong>Cased Based Reasoning</strong></h3>
 
 
-<p>I try to represent all the fases of CBR but is just a simple example.</p><br>
-<p>A real CBR has many other validation o principal in the review part and retain part.</p><br>
+<p>I try to represent all the fases of CBR but is just a simple example.</p>
+<p>A real CBR has many other validation o principal in the review part and retain part.</p>
 <p>My implementation is based on a book that I read  and is simple only to practice purpose!</p>
